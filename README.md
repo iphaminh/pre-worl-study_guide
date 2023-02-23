@@ -1,2 +1,2 @@
-# pre-worl-study_guide
+# pre-work-study-guide
 boots camp prework study guide for student
