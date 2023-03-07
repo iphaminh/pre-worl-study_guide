@@ -6,11 +6,10 @@
 header,
 footer {
  width: 100%;
- height: 120px;
- background-color: blue;
+ height: 150px;
+ background-color:  rgb(50, 187, 116);
  color: white;
 }
-
 h1,
 h2 {
  text-align: center;
@@ -35,7 +34,7 @@ p {
 }
 .card {
     width: 80%;
-    margin: 40px;
-    border: 5px solid gray;
-    box-shadow: 5px 10px #888888;
+    margin: 40px auto;
+    border: 5px solid rgb(50, 187, 116);
+    box-shadow: 7px 10px #888888;
 }
