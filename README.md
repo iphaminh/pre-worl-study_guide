@@ -37,7 +37,7 @@ https://code.visualstudio.com/docs/nodejs/browser-debugging
 
 ## Badges
 
-![badmath](https://img.shields.io/github/actions/workflow/status/iphaminh/prework-study-guide/main.yml)
+[language](https://img.shields.io/github/languages/top/iphaminh/prework-study-guide)
 
 ## Features
 
