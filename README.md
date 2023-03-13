@@ -1,7 +1,7 @@
 # Prework-Study-Guide
 ## Boots Camp Prework Study Guide for Student
 
-- Challenging with learning coding 
+- Challenging with basic coding 
 - To gain the computional thinking over the prework. 
 - Helping to connect with new tech community
 
@@ -20,15 +20,17 @@ I have four branches
 * feature/add-HTML
 * feature/add-js
 * feature/starter-code
-
-![This is my very first repository(assets/images/screenshot.png)
+<p align = "center">
+<img src="assets/screenshot.png" width="200">
 
 ## Credits
 
-ChatGPT, Youtube, and Google
-https://chat.openai.com/chat
-https://www.youtube.com/@coreyms
-https://code.visualstudio.com/docs/nodejs/browser-debugging
+* ChatGPT 
+* Youtube
+* Google
+- https://chat.openai.com/chat
+- https://www.youtube.com/@coreyms
+- https://code.visualstudio.com/docs/nodejs/browser-debugging
 
 ## License
 
@@ -37,19 +39,19 @@ https://code.visualstudio.com/docs/nodejs/browser-debugging
 
 ## Badges
 
-[language](https://img.shields.io/github/languages/top/iphaminh/prework-study-guide)
-
+![language](https://img.shields.io/github/languages/top/iphaminh/prework-study-guide)
+![File](https://img.shields.io/github/directory-file-count/iphaminh/prework-study-guide)
+![issue](https://img.shields.io/github/issues/iphaminh/prework-study-guide)
+![pull request](https://img.shields.io/github/issues-pr/iphaminh/prework-study-guide)
+![close pull request](https://img.shields.io/github/issues-pr-closed-raw/iphaminh/prework-study-guide)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{iphaminh}1212%2Fhit-counter)
 ## Features
 
-CSS
-HTML
-JavaScript
-Github
+- CSS
+- HTML
+- JavaScript
+- Github
 
 ## How to Contribute
 
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
