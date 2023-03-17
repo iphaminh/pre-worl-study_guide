@@ -76,7 +76,7 @@ p {
  height: 10px;
 }
 .card {
-    width: %;
+    width: 80%;
     margin: 30px auto;
     border: 5px solid rgb(50, 187, 116);
     box-shadow: 7px 10px #888888;
